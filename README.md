@@ -1,4 +1,11 @@
 # Workshop_2019
+TEAM - 
+Product manager : Isaure De Lutiis
+Design Team :  Clémence Osumi & Lucas Picarat
+Marketing Team : Isaure De Lutiis & Thomas Dubois
+Dev Team : Amine Benayad & Lionel Tran
+
+----
 
 We choosed to make a responsive website in Html and Php/MySQL
 in order to offer to the client a fully personalise website instead of an 
