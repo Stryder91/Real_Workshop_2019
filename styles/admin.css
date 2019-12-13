@@ -1,0 +1,58 @@
+@font-face{
+    font-family: "Montserrat-Regular";
+    src:url("../styles/font/Montserrat-Regular.ttf");
+}
+@font-face{
+    font-family: "Montserrat-Bold";
+    src:url("../styles/font/Montserrat-Bold.ttf");
+}
+body {
+    margin: 0;
+    font-family: "Montserrat-Regular";
+    color: white;
+    background: #39393A;
+}
+header {
+    height: 12vh;
+    background: #333334;
+    width: 100vw;
+}
+
+.main {
+    background: #464646;
+    padding: 5%;
+    border-radius: 3px;
+}
+
+.hidden {
+    display: none;
+}
+.zone-grise-message {
+    background-color: #EDEDEd !important;
+    border-radius: 5px;
+    color: black;
+}
+.zone-blanche{
+    background-color: #fff;
+    min-height: 50vh;
+    border-radius: 3px;
+}
+.mytextarea{
+    background-color: #39393A !important;
+    border: none !important;
+    border-bottom: #EDEDEd 1px solid !important;
+}
+.btn-add{
+    color: black !important;
+    background-color: #fff !important;
+    border-radius: 20px !important;
+}
+.btn-add > a {
+    color: black !important;
+
+}
+.logout{
+    color: white !important;
+}
+
+

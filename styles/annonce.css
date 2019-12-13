@@ -1,0 +1,34 @@
+@font-face{
+    font-family: "Montserrat-Regular";
+    src:url("../styles/font/Montserrat-Regular.ttf");
+}
+@font-face{
+    font-family: "Montserrat-Bold";
+    src:url("../styles/font/Montserrat-Bold.ttf");
+}
+    body {
+        background: #F8F8F8;
+        font-family: "Montserrat-Regular" !important;
+    }
+    img {
+        width: 100%;  
+        height: 100%;
+        box-shadow: 1px 2px 3px solid;
+    }
+    /*=============================================
+    =            Partie oeuvre            =
+    =============================================*/
+    .oeuvre{
+        padding-bottom: 50px !important;
+        margin-bottom: 70px !important;
+    }
+    h6 {
+        padding-top: 30px !important;
+    }
+    .retour {
+        color: #002082;
+        padding-top: 42px !important;
+        font-weight: bold; 
+    }
+
+

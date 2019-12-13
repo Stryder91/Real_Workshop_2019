@@ -1,0 +1,5 @@
+//We don't want to be indexed on Google
+
+User-agent: *
+Disallow: /
+disallow : /admin and ltran.eemi.tech/Lionel/Galeria_De_Cauca

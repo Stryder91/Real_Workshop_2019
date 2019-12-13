@@ -1,0 +1,74 @@
+@font-face{
+    font-family: "Montserrat-Regular";
+    src:url("../styles/font/Montserrat-Regular.ttf");
+}
+@font-face{
+    font-family: "Montserrat-Bold";
+    src:url("../styles/font/Montserrat-Bold.ttf");
+}
+body {
+    font-family: "Montserrat-Regular" !important;
+}
+a {
+    color: black !important;
+}
+.jauneBorder {
+    border: #FFCB00 3px solid !important;
+}
+.bleuBorder{
+    border: #002082 3px solid !important;
+}
+.rougeBorder {
+    border: #E2001F 3px solid !important;
+}
+.noirBorder {
+    border: black 3px solid !important;
+}
+.btn-go{
+    box-shadow: 3px 3px 5px silver;
+    border-radius: 20px !important;
+}
+.inputWrite {
+    border-bottom: silver 2px solid !important;
+}
+.comptePersoMain {
+    background-image: url('../images/boule_bg.png');
+    background-size: cover;
+    opacity: .9;
+    min-height: 70vh !important;
+}
+
+.whiteBG{
+    background-color: white;
+    box-shadow: 3px 3px 5px solid !important;
+    border-radius: 5px;
+}
+.btn-Black{
+    background: black !important;
+    color: white !important;
+    border-radius: 20px !important;
+}
+.col-profil{
+    box-shadow: 3px 3px 5px silver;
+    height: 30vh;
+    border-radius: 25px;
+    background-color: #fff;
+}
+.banner-img{
+    height: 25vh;
+    background-image: url('../images/galeria.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.contain-messages{
+    margin-top: 20%;
+    margin: auto;
+}
+.self_bloc{
+    background-color: #fff;
+    border-radius: 20px;
+    transform: translate(0,-30px);
+    box-shadow: 3px 3px 5px silver;
+}
+
+

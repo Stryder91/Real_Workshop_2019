@@ -1,0 +1,6 @@
+<?php 
+echo("Don Diege Cassamandra was born in Venezuela and he is as an international leader and expert in Colombian art.
+Son of maria de Osaria and the lord of Rionegro del Álvaro Pérez, he embarked from an early age  to explore the Americas and will become, in turn, military, explorer, mercenary, administrator civil and ended up being an international expert in Colombian art.
+He made history on July 24, 196 7 to be the founder of the port of Nuestra de Caraballeda,
+the current Caraballeda in the state of Vargas and the same year on September 7, he made history to be the founder of the Cauca Gallery, which is located in the city of Caracas.
+Beatriz Gil gallery linked to the arts circuit of the Las Mercedes urbanization, in Caracas, was founded in June 2004, in a space that traditionally was always connected to the city's cultural environment. For more than fifteen years, we have consolidated ourselves as a space that watches over the support, promotion and diffusion of the different plastic manifestations of the new national talents. Our mission is to build bridges of approach to the proposals of young emerging Venezuelan artists, who have continuously built a coherent discourse over time, expressed in different techniques and genres.");
