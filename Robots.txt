@@ -1,4 +1,5 @@
 //We don't want to be indexed on Google
+La première ligne signifie que l'instruction en dessous s'applique à tous les robots respectant le protocole robots.txt (Google, Bing MSN, etc). La seconde ligne permet de bloquer tout ce qui est accessible dans le domaine : tous les répertoires, dossiers, pages et fichiers.
 
 User-agent: *
 Disallow: /
